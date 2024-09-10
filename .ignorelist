@@ -1,0 +1,7 @@
+.git
+*.log
+*.tmp
+.idea
+.vscode
+/node_modules/
+/build/
